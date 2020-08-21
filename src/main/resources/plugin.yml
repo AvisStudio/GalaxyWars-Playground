@@ -1,0 +1,5 @@
+name: GalaxyWarsPlayground
+version: 1.0-SNAPSHOT
+main: studio.avis.galaxywars.playground.GalaxyWarsPlayground
+load: STARTUP
+author: OrigamiDream
